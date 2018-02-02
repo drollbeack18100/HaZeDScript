@@ -38,6 +38,14 @@ WARNING:
 A Linux-based operating system. We recommend Kali Linux 2 or Kali rolling. Kali 2 & rolling.
 
 
+
 I'm not responsible for your actions ..
 
+
 If you installed this program that means that you accept the Instructions(Warnings)
+
+
+If you found any bug report it here or email me.
+
+
+#1
