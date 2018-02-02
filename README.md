@@ -3,14 +3,26 @@
 <img src="https://i.imgur.com/BcGMDoF.png?1"/>
 <img src="https://i.imgur.com/AeuMWE9.png?2"/>
 <img src="https://i.imgur.com/lTJ0nla.png?1"/>
+  
+  
+
 HazeD Script cotains multiple tools trusted and used before by hackers.I will be updating this script as possible as i can.
 Any questions ---------->Drollbeack18100@gmail.com.
+
+
+
 ## How can you install HaZeD.
+
+
 ```
 cd
 git clone https://github.com/drollbeack18100/HaZeDScript
 ```
+
+
 WARNING:
+
+
 1)DONOT USE THIS ILLEGALY.
   
   
@@ -18,6 +30,7 @@ WARNING:
 
 
 3)DONOT SPAM SENDING EMAILS.
+
 
 ##TheRequirements
 
