@@ -7,8 +7,13 @@ cd
 git clone https://github.com/drollbeack18100/HaZeDScript
 ```
 WARNING:
+
 1)DONOT USE THIS ILLEGALY.
+
+
 2)FOLLOW THE INSTALLATIONS INSTRUCTIONS.
+
+
 3)DONOT SPAM SENDING EMAILS.
 
 ##TheRequirements
