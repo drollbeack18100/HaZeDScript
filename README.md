@@ -33,6 +33,9 @@ WARNING:
 3)DONOT SPAM SENDING EMAILS.
 
 
+4)DONOT EDIT ANYTHING OF THE SCRIPT.
+
+
 ##TheRequirements
 
 A Linux-based operating system. We recommend Kali Linux 2 or Kali rolling. Kali 2 & rolling.
