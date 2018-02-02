@@ -125,7 +125,7 @@ def Three():
 	elif usr1 == ("4"):
 		os.system("xterm -e 'sslstrip -l 8080'")
 		Three()
-	elif usr == ("99"):
+	elif usr1 == ("99"):
 		usr()
 	else:
 		clearo()
