@@ -8,7 +8,7 @@
 
 HazeD Script cotains multiple tools trusted and used before by hackers.I will be updating this script as possible as i can.
 Any questions ---------->Drollbeack18100@gmail.com.
-Actaully i made this program for beginners and they found "hacking" is a hard thing.
+Actaully i made this program for beginners those who found that "hacking" is a hard thing.
 
 
 
