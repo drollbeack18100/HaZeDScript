@@ -33,7 +33,7 @@ WARNING:
 3)DONOT SPAM SENDING EMAILS.
 
 
-4)DONOT EDIT ANYTHING OF THE SCRIPT.
+4)DONOT EDIT ANYTHING IN THE SCRIPT.
 
 
 ##TheRequirements
@@ -51,4 +51,4 @@ If you installed this program that means that you accept the Instructions(Warnin
 If you found any bug report it here or email me.
 
 
-#1
+
