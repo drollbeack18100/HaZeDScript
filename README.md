@@ -42,7 +42,7 @@ WARNING:
 
 ##TheRequirements
 
-A Linux-based operating system. We recommend Kali Linux 2 or Kali rolling. Kali 2 & rolling.
+A Linux-based operating system. We recommend Kali Linux 2 or Kali rolling.
 
 
 
