@@ -37,6 +37,9 @@ WARNING:
 4)DONOT EDIT ANYTHING IN THE SCRIPT.
 
 
+5)I'M NOT RESPONSIBLE FOR YOUR ACTIONS
+
+
 ##TheRequirements
 
 A Linux-based operating system. We recommend Kali Linux 2 or Kali rolling. Kali 2 & rolling.
