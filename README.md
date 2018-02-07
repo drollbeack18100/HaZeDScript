@@ -1,8 +1,9 @@
 ## Welcome to HaZeD Script V1.0.
 <p align="center">
-<img src="/root/Desktop/XgQ2mBH.png"/>
-<img src="https://i.imgur.com/AeuMWE9.png?2"/>
-<img src="https://i.imgur.com/lTJ0nla.png?1"/>
+<img src="https://i.imgur.com/1GLNAwc.png?1"/>
+<img src="https://i.imgur.com/oocH7hi.png?1"/>
+<img src="https://i.imgur.com/YASeext.png?1"/>
+<img src="https://i.imgur.com/v1rmfDW.png?1"/>
   
   
 
