@@ -6,14 +6,18 @@
 <img src="https://i.imgur.com/v1rmfDW.png?1"/>
   
   
+## How can HaZeD Script benefit you?
+  
 
-HazeD Script cotains multiple tools trusted and used before by hackers.I will be updating this script as possible as i can.
+HaZeD Script cotains multiple tools trusted and used before by hackers.I will be updating this script as possible as i can.
+
 Any questions ---------->Drollbeack18100@gmail.com.
+
 Actaully i made this program for beginners those who found that "hacking" is a hard thing.
 
 
 
-## How can you install HaZeD.
+## Installation:
 
 
 ```
@@ -22,7 +26,7 @@ git clone https://github.com/drollbeack18100/HaZeDScript
 ```
 
 
-WARNING:
+## WARNING:
 
 
 1)DONOT USE THIS ILLEGALY.
@@ -40,11 +44,12 @@ WARNING:
 5)I'M NOT RESPONSIBLE FOR YOUR ACTIONS.
 
 
-##TheRequirements
+## TheRequirements:
 
 A Linux-based operating system. We recommend Kali Linux 2 or Kali rolling.
 
 
+## Read this carefully:
 
 I'm not responsible for your actions ..
 
